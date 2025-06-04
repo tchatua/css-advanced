@@ -1,0 +1,49 @@
+/* h2 {
+    display: inline;
+} */
+
+    p {
+      color: white;
+    }
+
+    .red {
+      display: inline-block;
+      width: 200px;
+      height: 200px;
+      background-color: red;
+    }
+
+    .green {
+      display: inline-block;
+      width: 200px;
+      height: 200px;
+      background-color: green;
+    }
+
+    .blue {
+      display: inline-block;
+      width: 200px;
+      height: 200px;
+      background-color: blue;
+    }
+
+    .red_2 {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: red;
+    }
+
+    .green_2 {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: green;
+    }
+
+    .blue_2 {
+      display: block;
+      width: 200px;
+      height: 200px;
+      background-color: blue;
+    }
